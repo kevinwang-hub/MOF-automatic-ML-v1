@@ -106,3 +106,6 @@ full list.
 Research code, released as-is. No warranty. Underlying corpus is derived
 from a published MOF synthesis-conditions dataset; see project docs for
 attribution.
+
+## Acknowledge
+This project, include the Readme file, is created by Claude Code
