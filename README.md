@@ -108,4 +108,4 @@ from a published MOF synthesis-conditions dataset; see project docs for
 attribution.
 
 ## Acknowledge
-This project, include the Readme file, is created by Claude Code
+Over 90% of the code in this project was done by Claude Code. AI is massively used in this project. The README is created by Claude Code
